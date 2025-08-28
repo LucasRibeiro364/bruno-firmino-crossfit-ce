@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import brunoPic from "@/assets/bruno-firmino-portrait.jpg";
+import brunoPic from "@/assets/bruno-personal-photo.jpg";
 
 const Hero = () => {
   const scrollToContact = () => {
@@ -71,7 +71,7 @@ const Hero = () => {
             <Button 
               size="lg" 
               variant="outline" 
-              className="border-white/30 text-white hover:bg-white/10 px-8 py-4 text-lg font-semibold"
+              className="border-white/30 text-black hover:bg-white/10 hover:text-black px-8 py-4 text-lg font-semibold bg-white/90"
               onClick={() => document.getElementById('about')?.scrollIntoView({ behavior: 'smooth' })}
             >
               Conheça Minha História

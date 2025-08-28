@@ -1,4 +1,4 @@
-import openEvent from "@/assets/crossfit-open-fortaleza.jpg";
+import openEvent from "@/assets/bruno-open-event.jpg";
 
 const CaseStudy = () => {
   return (
