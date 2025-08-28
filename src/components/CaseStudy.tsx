@@ -1,4 +1,4 @@
-import openEvent from "@/assets/bruno-open-event.jpg";
+import openEvent from "@/assets/open.png";
 
 const CaseStudy = () => {
   return (
